@@ -14,31 +14,31 @@ author: K.W.Lee
 
 ## Github io (블로그) 만들기
 
-1. Repository 생성하기
+ 1. Repository 생성하기
 
 - repository name은 “username.github.io” 이렇게 설정하면 됩니다.
 - 이 때, username은 github에 있는 user name을 사용합니다.
 - 제 경우는 lkeonwoo94.github.io 가 될 것입니다.
 
 
-2. 터미널을 열어서 Ruby를 깔아줍니다
+ 2. 터미널을 열어서 Ruby를 깔아줍니다
 
 ```$ sudo apt install ruby ruby-dev build-essential```
 
-3. jekyll 과 bundler 를 깔아줍니다
+ 3. jekyll 과 bundler 를 깔아줍니다
 
 ```$ sudo gem install jekyll bundler```
 *Ruby가 설치되어있지 않으면 gem을 사용할 수 없습니다*
 
 
-4. 받을 jekyll thema의 github를 들어갑니다
+ 4. 받을 jekyll thema의 github를 들어갑니다
 
 저같은 경우는 jekflix를 선택했는데, 그냥 가장 깔끔해보였습니다.
 (다른 마음에 드는 테마를 찾기가 귀찮기도 했고)
 
 ```git clone https://github.com/thiagorossener/jekflix-template.git [받을 폴더명] ```
 
-5. Clone이 완료되면 [폴더] 안으로 들어가 Bundler를 실행합니다.
+ 5. Clone이 완료되면 [폴더] 안으로 들어가 Bundler를 실행합니다.
 
 ```
 cd [폴더명]
@@ -60,7 +60,7 @@ Your user account isn't allowed to install to the system RubyGems.
   Password:
 ```
 
-6. 아까 파둔 [본인] Repository에 올려줍니다
+ 6. 아까 파둔 [본인] Repository에 올려줍니다
 
 ```
 $ git remote remove origin // 기존의 remote 삭제
@@ -69,7 +69,7 @@ $ git remote -v      // 본인의 repo가 remote 된 것을 확인
 $ git push -u origin master     //본인의 git repo에 업로드
 ```
 
-7. 본인 Repository의 _config.yml 파일을 수정해줍니다
+ 7. 본인 Repository의 _config.yml 파일을 수정해줍니다
 
 주욱 내리다 보면 Advanced Settings에 url이 있습니다. 이 곳에 자기 "username".github.io 를 입력해줍니다
 ```
