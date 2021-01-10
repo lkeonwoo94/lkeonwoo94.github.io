@@ -21,23 +21,14 @@ author: K.W.Lee
 - 제 경우는 lkeonwoo94.github.io 가 될 것입니다.
 
 
-
-
 2. 터미널을 열어서 Ruby를 깔아줍니다
 
 ```$ sudo apt install ruby ruby-dev build-essential```
-
-
-
-
 
 3. jekyll 과 bundler 를 깔아줍니다
 
 ```$ sudo gem install jekyll bundler```
 *Ruby가 설치되어있지 않으면 gem을 사용할 수 없습니다*
-
-
-
 
 
 4. 받을 jekyll thema의 github를 들어갑니다
@@ -46,10 +37,6 @@ author: K.W.Lee
 (다른 마음에 드는 테마를 찾기가 귀찮기도 했고)
 
 ```git clone https://github.com/thiagorossener/jekflix-template.git [받을 폴더명] ```
-
-
-
-
 
 5. Clone이 완료되면 [폴더] 안으로 들어가 Bundler를 실행합니다.
 
@@ -73,9 +60,6 @@ Your user account isn't allowed to install to the system RubyGems.
   Password:
 ```
 
-
-
-
 6. 아까 파둔 [본인] Repository에 올려줍니다
 
 ```
@@ -84,8 +68,6 @@ $ git remote add origin "본인이만들었던 repo 주소"
 $ git remote -v      // 본인의 repo가 remote 된 것을 확인
 $ git push -u origin master     //본인의 git repo에 업로드
 ```
-
-
 
 7. 본인 Repository의 _config.yml 파일을 수정해줍니다
 
