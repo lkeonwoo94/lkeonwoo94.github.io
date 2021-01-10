@@ -29,7 +29,7 @@ author: K.W.Lee
 $ sudo apt install ruby ruby-dev build-essential
 ```
 
-![img](.img/githubio/install_ruby.png)
+![img](./img/githubio/install_ruby.png)
 
 ### 3. jekyll 과 bundler 를 깔아줍니다
 ---
