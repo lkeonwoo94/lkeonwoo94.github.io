@@ -37,7 +37,7 @@ $ sudo apt install ruby ruby-dev build-essential
 $ sudo gem install jekyll bundler
 ```
 
-![img](./img/githubio/install_bundle.png]
+![img](./img/githubio/install_bundle.png)
     
 *Ruby가 설치되어있지 않으면 gem을 사용할 수 없습니다*
 
