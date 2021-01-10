@@ -20,7 +20,7 @@ author: K.W.Lee
 - 이 때, username은 github에 있는 user name을 사용합니다.
 - 제 경우는 lkeonwoo94.github.io 가 될 것입니다.
 
-![img](./img/githubio/Create_Repo.png)
+![img]({{site.url}}/_posts/img/githubio/Create_Repo.png)
 
 
 ### 2. 터미널을 열어서 Ruby를 깔아줍니다
