@@ -20,7 +20,7 @@ author: K.W.Lee
 - 이 때, username은 github에 있는 user name을 사용합니다.
 - 제 경우는 lkeonwoo94.github.io 가 될 것입니다.
 
-![img](./img/githubio/Create_repo.png)
+![img](./img/githubio/Create_Repo.png)
 
 
 ### 2. 터미널을 열어서 Ruby를 깔아줍니다
@@ -44,7 +44,7 @@ $ sudo gem install jekyll bundler
 
 ### 4. 받을 jekyll thema의 github를 들어갑니다
 ---
-저같은 경우는 ![jekflix](https://github.com/thiagorossener/jekflix-template)를 선택했는데, 그냥 가장 깔끔해보였습니다.
+저같은 경우는 [jekflix](https://github.com/thiagorossener/jekflix-template)를 선택했는데, 그냥 가장 깔끔해보였습니다.
 (다른 마음에 드는 테마를 찾기가 귀찮기도 했고)
 
 ```
