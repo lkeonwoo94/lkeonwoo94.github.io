@@ -9,9 +9,7 @@ optimized_image: https://media.vlpt.us/images/zawook/post/7a8efe90-d6fb-4d5a-806
 category: BlogSetting
 tags:
   - Blog
-introduction: 깃허브 블로그를 생성하고 띄울 수 있다.
 author: K.W.Lee
-
 ---
 
 ## Github io (블로그) 만들기
