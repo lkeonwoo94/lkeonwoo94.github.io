@@ -44,8 +44,8 @@ $ sudo gem install jekyll bundler
 
 ### 4. 받을 jekyll thema의 github를 들어갑니다
 ---
-저같은 경우는 [jekflix](https://github.com/thiagorossener/jekflix-template)를 선택했는데, 그냥 가장 깔끔해보였습니다.
-(다른 마음에 드는 테마를 찾기가 귀찮기도 했고)
+저같은 경우는 [jekflix](https://github.com/thiagorossener/jekflix-template)를 선택했는데, 그냥 가장 깔끔해보였습니다.    
+~(다른 마음에 드는 테마를 찾기가 귀찮기도 했고)~
 
 ```
 git clone https://github.com/thiagorossener/jekflix-template.git [받을 폴더명] 
