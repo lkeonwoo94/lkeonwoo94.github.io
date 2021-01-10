@@ -20,7 +20,7 @@ author: K.W.Lee
 - 이 때, username은 github에 있는 user name을 사용합니다.
 - 제 경우는 lkeonwoo94.github.io 가 될 것입니다.
 
-![img](https://github.com/lkeonwoo94/lkeonwoo94.github.io/_posts/img/githubio/Create_Repo.png)
+![img](https://github.com/lkeonwoo94/lkeonwoo94.github.io/tree/master/_posts/img/githubio/Create_Repo.png)
 
 
 ### 2. 터미널을 열어서 Ruby를 깔아줍니다
@@ -29,7 +29,7 @@ author: K.W.Lee
 $ sudo apt install ruby ruby-dev build-essential
 ```
 
-![img](.https://github.com/lkeonwoo94/lkeonwoo94.github.io/_posts/img/githubio/install_ruby.png)
+![img](.https://github.com/lkeonwoo94/lkeonwoo94.github.io/tree/master/_posts/img/githubio/install_ruby.png)
 
 ### 3. jekyll 과 bundler 를 깔아줍니다
 ---
@@ -37,7 +37,7 @@ $ sudo apt install ruby ruby-dev build-essential
 $ sudo gem install jekyll bundler
 ```
 
-![img](https://github.com/lkeonwoo94/lkeonwoo94.github.io/_posts/img/githubio/install_bundle.png)
+![img](https://github.com/lkeonwoo94/lkeonwoo94.github.io/tree/master/_posts/img/githubio/install_bundle.png)
     
 *Ruby가 설치되어있지 않으면 gem을 사용할 수 없습니다*
 
@@ -51,7 +51,7 @@ $ sudo gem install jekyll bundler
 git clone https://github.com/thiagorossener/jekflix-template.git [받을 폴더명] 
 ```
 
-![img](https://github.com/lkeonwoo94/lkeonwoo94.github.io/_posts/img/githubio/jekflix.png)
+![img](https://github.com/lkeonwoo94/lkeonwoo94.github.io/tree/master/_posts/img/githubio/jekflix.png)
 
 ### 5. Clone이 완료되면 [폴더] 안으로 들어가 Bundler를 실행합니다.
 ---
@@ -75,7 +75,7 @@ Your user account isn't allowed to install to the system RubyGems.
   Password:
 ```
 
-![img](https://github.com/lkeonwoo94/lkeonwoo94.github.io/_posts/img/githubio/exe_bundle.png)
+![img](https://github.com/lkeonwoo94/lkeonwoo94.github.io/tree/master/_posts/img/githubio/exe_bundle.png)
 
 
 ### 6. 아까 파둔 [본인] Repository에 올려줍니다
@@ -100,13 +100,13 @@ categories_folder: category
 sent_message_url: "/contact/message-sent/"
 ```
 
-![img](https://github.com/lkeonwoo94/lkeonwoo94.github.io/_posts/img/githubio/conf.png)
+![img](https://github.com/lkeonwoo94/lkeonwoo94.github.io/tree/master/_posts/img/githubio/conf.png)
 
 
 
 ### 8. 완성된 모습
 
-![img](https://github.com/lkeonwoo94/lkeonwoo94.github.io/_posts/img/githubio/complete.png)
+![img](https://github.com/lkeonwoo94/lkeonwoo94.github.io/tree/master/_posts/img/githubio/complete.png)
 
 
 다음시간에는 Posting을 어떻게 하는지 올리겠습니다.
